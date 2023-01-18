@@ -1,11 +1,10 @@
 # CicadaOS
-Cicada Software Operating
-https://nexaos.github.io/CicadaOS/
+
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>### Cicada Software Operating ###</h2>
+<h2>### <a href="https://nexaos.github.io/CicadaOS/">[ CicadaOS ]</a> Software Operating ###</h2><br>
 <img src="https://repository-images.githubusercontent.com/590339294/0fe244e1-15dd-4671-b605-3ec8a93824fb" alt="Trulli">
 <!--
 <img src="https://repository-images.githubusercontent.com/587633594/bd5faf5e-aaea-422d-945f-8f817e7b3e28" alt="Trulli" width="500" height="333">
